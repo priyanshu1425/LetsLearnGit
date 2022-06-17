@@ -12,6 +12,6 @@ void subset(string s,string curr=" ",int i=0)
 }
 int main()
 {
-    subset("ABC");
+    subset("ABCD");
     return 0;
 }
